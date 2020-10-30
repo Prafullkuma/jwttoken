@@ -1,0 +1,14 @@
+.Nav{
+display: flex;
+align-items: center;
+padding: 30px;
+}
+.Nav h1{
+    color:black
+}
+.Nav a{
+    text-decoration: none;
+}
+.navbar-items{
+    display: flex;
+}

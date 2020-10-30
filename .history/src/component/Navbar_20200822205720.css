@@ -1,0 +1,7 @@
+.Nav{
+display: flex;
+align-items: center;
+}
+.navbar-items{
+    display: flex;
+}

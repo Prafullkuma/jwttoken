@@ -1,0 +1,10 @@
+.Nav{
+display: flex;
+align-items: center;
+}
+.Nav a{
+    text-decoration: none;
+}
+.navbar-items{
+    display: flex;
+}

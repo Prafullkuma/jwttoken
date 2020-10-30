@@ -1,0 +1,11 @@
+.Dashboard{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    margin: 50px 200px;
+    background-color: antiquewhite;
+    text-align: center;
+}
+.Dashboard input{
+    
+}
